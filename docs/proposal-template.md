@@ -26,7 +26,16 @@ Paragraph 4... (optional, template said ~2-4)
 
 # Estimated Timeline
 
-(Figure out what your major milestones for this project will be, including how long you anticipate it *may* take to reach that point)
+Listed dates represent the point at which each milestone should be completed, not started.
+
+- 1 week in - Get everyone up and running with Unity
+- 2 weeks in - Get Unity to cooperate with Git/GitHub
+- 4 weeks in - Implement playable character and make it move in response to input
+- 5 weeks in - Implement basic enemy and make it interact with playable character
+- 6.5 weeks in - Complete level geometry for stage(s) and implement level completion
+- 8 weeks in - Create/acquire art/music assets for stages/characters
+- 9 weeks in - Apply art/music assets to stages/characters
+- 9 weeks in - Build and package up final product (imagining this won't take too long)
 
 # Anticipated Problems
 
