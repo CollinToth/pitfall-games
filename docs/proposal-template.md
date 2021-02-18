@@ -6,11 +6,7 @@ Team members: Collin Toth, Mary Benton, Victoria tenHaaf, and Benjamin Brown
 
 We will be making a 2D platformer in Unity focused on combat. A 2D platformer was chosen over a 3D one to reduce complexity and provide a less intimidating development process for those of us who are new to Unity. This choice also cuts out the need to work on 3D models and should make developing maps/assets much easier. The game will be based around a central mechanic or mechanics that shape its identity. One of these that we have come up with so far is the idea of changing the playable character's attributes every time they die (fast horizontal speed one life, high jumps another, etc.).
 
-Paragraph 2...
-
-Paragraph 3... (optional, template said ~2-4)
-
-Paragraph 4... (optional, template said ~2-4)
+The 2D platformer game will be combat based with enemies as obsticles for the player. As previously stated, once the player dies in the game from one of the enemies, the playable attributes change. We decided this would be an interesting aspect of the game and would make the gameplay different as the player continues to die. 
 
 # Anticipated Technologies
 
