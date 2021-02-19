@@ -18,7 +18,7 @@ We are going to be using the newest version of Unity to develop the game. The 2D
 
 # Method/Approach
 
-(What is your estimated "plan of attack" for developing this project)
+The team will be meeting weekly or as needed depending on upcoming goals to assign responsibilities and discuss relevant ongoing tasks. These meetings will take place on Discord either in voice or via text depending on availability. Should meeting notes or a to do list be needed, they will be written in Discord and pinned so as to be easy to access and reference. Additionally, this method allows for both synchronous and asynchronous communication on ideas or issues as they arrive, resulting in a more flexible approach to organization. 
 
 # Estimated Timeline
 
