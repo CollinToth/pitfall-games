@@ -6,7 +6,7 @@ Team members: Collin Toth, Mary Benton, Victoria tenHaaf, and Benjamin Brown
 
 We will be making a 2D platformer in Unity focused on combat. A 2D platformer was chosen over a 3D one to reduce complexity and provide a less intimidating development process for those of us who are new to Unity. This choice also cuts out the need to work on 3D models and should make developing maps/assets much easier. The game will be based around a central mechanic or mechanics that shape its identity. One of these that we have come up with so far is the idea of changing the playable character's attributes every time they die (fast horizontal speed one life, high jumps another, etc.).
 
-We are going to be using the newest version of Unity to develop the game. The 2D platformer game will be combat based with enemies as obsticles for the player. As previously stated, once the player dies in the game from one of the enemies, the playable attributes change. We decided this would be an interesting aspect of the game and would make the gameplay different as the player continues to die. The game will have a playable character that responds to commands from the user. As the user advances through the game, they will complete different levels and the character will evolve as it dies. 
+We are going to be using Unity LTS Release 2019.4.19f1 to develop the game. The 2D platformer will be combat based with enemies as obstacles for the player. As previously stated, once the player dies in the game from one of the enemies or the level geometry, the playable character's attributes will change. We decided this would be an interesting aspect of the game and would make the gameplay different as the player continues to die. The game will have a playable character that responds to commands from the user. As the user advances through the game, they will complete different levels and the character will evolve as it dies.
 
 # Anticipated Technologies
 
@@ -18,7 +18,7 @@ We are going to be using the newest version of Unity to develop the game. The 2D
 
 # Method/Approach
 
-The team will be meeting weekly or as needed depending on upcoming goals to assign responsibilities and discuss relevant ongoing tasks. These meetings will take place on Discord either in voice or via text depending on availability. Should meeting notes or a to do list be needed, they will be written in Discord and pinned so as to be easy to access and reference. Additionally, this method allows for both synchronous and asynchronous communication on ideas or issues as they arrive, resulting in a more flexible approach to organization. 
+The team will be meeting weekly or as needed depending on upcoming goals to assign responsibilities and discuss relevant ongoing tasks. These meetings will take place on Discord either in voice or via text depending on availability. Should meeting notes or a to do list be needed, they will be written in Discord and pinned so as to be easy to access and reference. Additionally, this method allows for both synchronous and asynchronous communication on ideas or issues as they arise, resulting in a more flexible approach to organization. 
 
 # Estimated Timeline
 
