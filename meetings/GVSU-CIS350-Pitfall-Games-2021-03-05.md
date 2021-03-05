@@ -16,6 +16,6 @@ Discussion points:
 
 Goals for next week (including responsibilities):
 
-* Start to put together requirements, ideally finishing before next meeting.
+* Start to put together requirements, and finish Homework 2, ideally finishing before next meeting.
 * Have everyone edit with the official template and attempt to implement basic requirements.
 * Have some element of playable character change on death.  
