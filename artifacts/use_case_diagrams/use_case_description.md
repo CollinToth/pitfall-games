@@ -8,4 +8,4 @@
 
   **Cross Ref:** Requierments FR 2.2, FR 3.1, NFR 2.1
   
-  **Use-Cases:**
+  **Use-Cases:** Player must be able to move first. 
