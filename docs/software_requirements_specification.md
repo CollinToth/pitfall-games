@@ -1,7 +1,3 @@
-TODO: Fill me in! (DELETE EVERYTHING ABOVE THE "# Overview" LINE BEFORE TURNING IN THIS ASSIGNMENT)
-
-Functional and non-functional requirements will be placed in an ordered list in this document. See the HW3 part 2 instruction sheet for details.
-
 # Overview
 
 This document serves as the software requirements specification for our Unity-based 2D platformer. The listed functional and non-functional requirements lay out what the game will be capable of and how it will behave, respectively. Each requirement has its own ID for traceability purposes. Each requirement will need to be fulfilled before completion of this project.
