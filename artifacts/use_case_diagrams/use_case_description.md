@@ -1,11 +1,11 @@
    # Use Case Description 
    
-   **Use Case:** Movement and Respawning
+   **Use Case:** Respawn
    
    **Actors:** Player, Crawling Enemy
   
-   **Description:** The player is able to move left, move right, and jump in order to try and avoid the crawling enemy. If the player interacts with the enemy, they will die and respawn in the game as a result.
+   **Description:** The player will respawn in the game after they die as a result of the crawling enemy. 
 
-  **Cross Ref:** Requierments FR 2.2, FR 3.1, NFR 2.1
+  **Cross Ref:** Requierments FR 3.i, FR 3.ii, 3.iii
   
-  **Use-Cases:** Player must be able to move first. 
+  **Use-Cases:** Player must complete the die use case first. 
