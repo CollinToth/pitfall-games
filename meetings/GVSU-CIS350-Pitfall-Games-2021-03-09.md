@@ -1,4 +1,4 @@
-# Meeting Minutes
+# Meeting minutes
 
 Team name: Pitfall Games
 
