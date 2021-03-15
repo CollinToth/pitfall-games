@@ -1,5 +1,3 @@
-# Use Case Description
-
 **Use Case:** Respawn
 
 **Actors:** Player (initiator)
