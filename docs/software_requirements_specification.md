@@ -11,10 +11,12 @@ This document serves as the software requirements specification for our Unity-ba
 1. Level design
     1. Levels shall be completable by the playable character crossing an endpoint on the stage.
 1. Controls
+    1. The game shall have a pause menu.
     1. The game's controls shall be shown to the player before entering the first level and on the pause menu.
     1. The platformer game shall implement a playable character and have that character move in response to input from the user.
 1. Interactions
     1. The game shall have a basic enemy with the ability to interact with the playable character.
+    1. The playable character shall respawn on death.
 
 # Non-Functional Requirements
 
@@ -25,5 +27,7 @@ This document serves as the software requirements specification for our Unity-ba
 1. Difficulty
     1. Levels shall be challenging but not stressful.
     1. The usability of the platformer shall make it so that it is easy for people outside of the team creating it to understand how to use it.
+    1. Levels shall scale up in difficulty as the game progresses. 
 1. Aesthetics
     1. Levels shall feel aesthetically distinct from one another through visual and musical theming.
+    1. Different enemies shall have distinct differences so they are easy to tell apart.
