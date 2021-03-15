@@ -18,6 +18,8 @@ This document serves as the software requirements specification for our Unity-ba
     1. The game shall have a main menu that is displayed upon launch.
     1. The pause and main menus shall both have a volume slider.
     1. The pause and main menus shall both have an option to exit the game.
+1. HUD
+    1. The player's health shall be displayed on screen.
 
 # Non-Functional Requirements
 
