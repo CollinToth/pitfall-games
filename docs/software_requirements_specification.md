@@ -24,10 +24,12 @@ This document serves as the software requirements specification for our Unity-ba
     1. The game shall target running at 60 frames per second.
 1. Controls
     1. The game's controls shall be responsive.
+    1. The game's controls shall be consistent with other games of its genre, so as to be intuitive to the user. 
 1. Difficulty
     1. Levels shall be challenging but not stressful.
     1. The usability of the platformer shall make it so that it is easy for people outside of the team creating it to understand how to use it.
     1. Levels shall scale up in difficulty as the game progresses. 
+    1. The game shall implement different enemy types that require different strategies. 
 1. Aesthetics
     1. Levels shall feel aesthetically distinct from one another through visual and musical theming.
     1. Different enemies shall have distinct differences so they are easy to tell apart.
