@@ -13,6 +13,7 @@ This document serves as the software requirements specification for our Unity-ba
 1. Interactions
     1. The game shall have a basic enemy with the ability to interact with the playable character.
     1. The playable character shall respawn on death.
+    1. In the platformer, the character’s attributes shall change in response to death from the game’s enemies or the geometry of the level. 
 
 # Non-Functional Requirements
 
