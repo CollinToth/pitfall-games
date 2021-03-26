@@ -4,6 +4,8 @@ Descriptions should be 1 sentence at max according to the instructions.
 
 We also need to make a burn-down or burn-up chart once we have our tasks listed here.
 
+Two spaces are needed after the first three lines of each task to make the markdown format correctly.
+
 DELETE EVERYTHING ABOVE THE DIVDER BELOW THIS SENTENCE BEFORE TURNING IN!
 
 ========================================================================================
@@ -12,20 +14,24 @@ DELETE EVERYTHING ABOVE THE DIVDER BELOW THIS SENTENCE BEFORE TURNING IN!
 
 ## Completed Tasks
 
-Name: blah blah
+Name: blah blah  
+Description: blah blah  
+Expected time to complete: blah blah  
+Responsible: one (or more) of us
 
-Description: blah blah
-
-Expected time to complete: blah blah
-
+Name: blah blah  
+Description: blah blah  
+Expected time to complete: blah blah  
 Responsible: one (or more) of us
 
 ## Tasks to be Completed
 
-Name: blah blah
+Name: blah blah  
+Description: blah blah  
+Expected time to complete: blah blah  
+Responsible: one (or more) of us
 
-Description: blah blah
-
-Expected time to complete: blah blah
-
+Name: blah blah  
+Description: blah blah  
+Expected time to complete: blah blah  
 Responsible: one (or more) of us
