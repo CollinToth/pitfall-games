@@ -13,13 +13,19 @@ DELETE EVERYTHING ABOVE THE DIVDER BELOW THIS SENTENCE BEFORE TURNING IN!
 ## Completed Tasks
 
 Name: blah blah
+
 Description: blah blah
+
 Expected time to complete: blah blah
+
 Responsible: one (or more) of us
 
 ## Tasks to be Completed
 
 Name: blah blah
+
 Description: blah blah
+
 Expected time to complete: blah blah
+
 Responsible: one (or more) of us
