@@ -6,7 +6,7 @@ Members present: Collin Toth, Mary Benton, and Benjamin Brown
 
 Date: 03/31/2021
 
-Time: 6:15PM - 6:PM
+Time: 6:15PM - 6:34PM
 
 Discussion points:
 
