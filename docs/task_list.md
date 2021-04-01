@@ -48,13 +48,18 @@ Responsible: Collin
 
 Name: Implement title screen  
 Description: When opened, the game needs to display a title screen showing controls and a button to begin playing.  
-Expected time to complete: UP TO YOU MARY  
+Expected time to complete: 2 weeks  
 Responsible: Mary
 
 Name: Implement pause menu  
 Description: The pause menu will show the controls and a button to quit the game.  
-Expected time to complete: ???????????????  
-Responsible: SOMEONE CLAIM ME
+Expected time to complete: 2 weeks  
+Responsible: Mary
+
+Name: Implement a different enemy type  
+Description: Adding another enemy type to the game.  
+Expected time to complete: 2 weeks  
+Responsible: Mary
 
 Name: Come up with a title for the game  
 Description: A good title will be needed for the game before the project is due.  
