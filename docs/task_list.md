@@ -58,7 +58,7 @@ Responsible: Mary
 
 Name: Implement a different enemy type  
 Description: Adding another enemy type to the game.  
-Expected time to complete: 2 weeks  
+Expected time to complete: 1 week
 Responsible: Mary
 
 Name: Come up with a title for the game  
