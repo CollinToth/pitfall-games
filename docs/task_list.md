@@ -70,3 +70,18 @@ Name: Link levels together
 Description: Completing a level needs to trigger the start of the next level.  
 Expected time to complete: ???????????????  
 Responsible: SOMEONE CLAIM ME
+
+Name: Implement player health  
+Description: Add a health value to the player, that drops based on contact with enemies.  
+Expected time to complete: 2 weeks  
+Responsible: Ben
+
+Name: Implement Immunity Frames  
+Description: Add immunity frames to enemy attacks so player can take small amounts of damage.  
+Expected time to complete: 1 week
+Responsible: Ben
+
+Name: Add Health display  
+Description: Add a display to represent player health.  
+Expected time to complete: 1 week  
+Responsible: Ben
