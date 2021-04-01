@@ -78,7 +78,7 @@ Responsible: Ben
 
 Name: Implement Immunity Frames  
 Description: Add immunity frames to enemy attacks so player can take small amounts of damage.  
-Expected time to complete: 1 week
+Expected time to complete: 1 week  
 Responsible: Ben
 
 Name: Add Health display  
