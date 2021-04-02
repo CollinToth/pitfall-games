@@ -68,8 +68,8 @@ Responsible: Everyone
 
 Name: Link levels together  
 Description: Completing a level needs to trigger the start of the next level.  
-Expected time to complete: ???????????????  
-Responsible: SOMEONE CLAIM ME
+Expected time to complete: 1 day  
+Responsible: Collin
 
 Name: Implement player health  
 Description: Add a health value to the player, that drops based on contact with enemies.  
