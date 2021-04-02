@@ -45,7 +45,7 @@ Expected time to complete: 2 weeks
 Responsible: Mary
 
 Name: Implement a different enemy type  
-Description: Adding another enemy type to the game.  
+Description: Add another enemy type to the game.  
 Expected time to complete: 1 week  
 Responsible: Mary
 
@@ -60,16 +60,16 @@ Expected time to complete: 1 day
 Responsible: Collin
 
 Name: Implement player health  
-Description: Add a health value to the player, that drops based on contact with enemies.  
+Description: Add a health value to the player that drops based on contact with enemies.  
 Expected time to complete: 2 weeks  
 Responsible: Ben
 
-Name: Implement Immunity Frames  
-Description: Add immunity frames to enemy attacks so player can take small amounts of damage.  
+Name: Implement immunity frames  
+Description: Add immunity frames to enemy attacks so the player can take small amounts of damage.  
 Expected time to complete: 1 week  
 Responsible: Ben
 
-Name: Add Health display  
+Name: Add health display  
 Description: Add a display to represent player health.  
 Expected time to complete: 1 week  
 Responsible: Ben
