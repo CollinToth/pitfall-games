@@ -12,6 +12,11 @@ Description: A large number of files should be excluded from version control in 
 Expected time to complete: 1 day; completed on 03/05/2021  
 Responsible: Collin
 
+Name: Implement basic attribute randomization on death  
+Description: The playable character's run speed and jump height (and potentially more) should be randomized when they die.  
+Expected time to complete: 1 day; completed on 03/12/2021  
+Responsible: Collin
+
 Name: Add tilemap editor package to Unity project  
 Description: Editing tilemaps requires a package that is not installed by default.  
 Expected time to complete: 1 day; completed on 03/26/2021  
