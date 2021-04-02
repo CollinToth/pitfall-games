@@ -63,7 +63,7 @@ Responsible: Mary
 
 Name: Come up with a title for the game  
 Description: A good title will be needed for the game before the project is due.  
-Expected time to complete: ???????????????  
+Expected time to complete: 1 week  
 Responsible: Everyone
 
 Name: Link levels together  
