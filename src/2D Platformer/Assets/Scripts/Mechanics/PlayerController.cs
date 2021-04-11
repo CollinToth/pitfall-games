@@ -66,7 +66,6 @@ namespace Platformer.Mechanics
             }
             else
             {
-                move.x = 0;
             }
             UpdateJumpState();
             base.Update();
@@ -127,6 +126,17 @@ namespace Platformer.Mechanics
             animator.SetFloat("velocityX", Mathf.Abs(velocity.x) / maxSpeed);
 
             targetVelocity = move * maxSpeed;
+        }
+
+        public void stop() {
+            move.x = 0;
+            move.y = 0;
+        }
+
+        public void bouncex(bool pos)
+        {
+            if (pos) { move.x = 2; }
+            else { move.x = -2; }
         }
 
         public enum JumpState

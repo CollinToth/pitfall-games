@@ -20,7 +20,7 @@ namespace Platformer.Gameplay
 
         public override void Execute()
         {
-            var willHurtEnemy = player.Bounds.center.y >= enemy.Bounds.max.y;
+            var willHurtEnemy = player.Bounds.center.y >= enemy.Bounds.max.y+.15;
 
             if (willHurtEnemy)
             {
@@ -46,7 +46,17 @@ namespace Platformer.Gameplay
             }
             else
             {
-                Schedule<PlayerDeath>();
+                player.controlEnabled = false;
+                player.collider2d.enabled = false;
+                if (player.audioSource && player.ouchAudio)
+                    player.audioSource.PlayOneShot(player.ouchAudio);
+                player.stop();
+                player.Bounce(3);
+                player.bouncex(player.Bounds.center.x > enemy.Bounds.center.x);
+                player.health.Decrement();
+                if(player.health.IsAlive)
+                    Schedule<RegainControl>(.2f);
+                
             }
         }
     }
