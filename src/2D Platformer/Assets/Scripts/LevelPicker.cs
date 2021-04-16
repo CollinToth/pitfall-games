@@ -21,4 +21,8 @@ public void ForestTown() {
 public void Back() {
 	SceneManager.LoadScene(0); 
 }
+
+public void Control() {
+	SceneManager.LoadScene(5); 
+}
 }
