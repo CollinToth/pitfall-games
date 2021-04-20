@@ -43,6 +43,6 @@
 ## Demonstration and Installation of Final Game
 
 - Portable executable which can be run in place (Windows and macOS)
-    - Download link for both platforms provided on Blackboard
+    - Download link for both platforms will be provided in the Zoom meeting
 - Display all three levels and how each other's work integrates into the game
 - Each person will give quick overviews of their work when it is encountered
