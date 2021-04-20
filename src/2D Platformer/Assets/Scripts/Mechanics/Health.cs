@@ -1,6 +1,7 @@
 using System;
 using Platformer.Gameplay;
 using UnityEngine;
+using UnityEngine.UI;
 using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
@@ -22,17 +23,26 @@ namespace Platformer.Mechanics
 
         int currentHP;
 
+        public Text HealthText;
+
+        public void updateHealthDisplay()
+        {
+            HealthText.text = "Health: " + currentHP;
+        }
+
         /// <summary>
         /// Increment the HP of the entity.
         /// </summary>
         public void Increment()
         {
             currentHP = Mathf.Clamp(currentHP + 1, 0, maxHP);
+            updateHealthDisplay();
         }
 
         public void setFullHP()
         {
             while (currentHP < maxHP) Increment();
+            updateHealthDisplay();
         }
 
         /// <summary>
@@ -46,6 +56,7 @@ namespace Platformer.Mechanics
             {
                 Core.Simulation.Schedule<PlayerDeath>(0f);
             }
+            updateHealthDisplay();
         }
 
         public void takeDamage(int dmg)
@@ -54,6 +65,7 @@ namespace Platformer.Mechanics
             {
                 Decrement();
             }
+            updateHealthDisplay();
         }
 
         /// <summary>
@@ -62,11 +74,13 @@ namespace Platformer.Mechanics
         public void Die()
         {
             while (currentHP > 0) Decrement();
+            updateHealthDisplay();
         }
 
         void Awake()
         {
             currentHP = maxHP;
+            updateHealthDisplay();
         }
     }
 }
