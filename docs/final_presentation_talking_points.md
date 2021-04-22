@@ -42,7 +42,7 @@
 
 ## Demonstration and Installation of Final Game
 
-- Portable executable which can be run in place (Windows and macOS)
-    - Download link for both platforms will be provided in the Zoom meeting
+- Portable executable which can be run in place (Windows (64-bit) only)
+    - Download link: https://github.com/CollinToth/GVSU-CIS350-Pitfall-Games/releases/tag/v1.0.0
 - Display all three levels and how each other's work integrates into the game
 - Each person will give quick overviews of their work when it is encountered
