@@ -14,5 +14,5 @@ CIS 350 Spectacular Never Been Seen Before Super Awesome Game is a Unity-based 2
 
 ## Run Instructions
 
-* Download the latest release zip file from the [releases page](https://github.com/CollinToth/GVSU-CIS350-Pitfall-Games/releases)
+* Download the latest release's zip file from the [releases page](https://github.com/CollinToth/GVSU-CIS350-Pitfall-Games/releases)
 * Extract the zip file and run "spectacular_game_windows_x86_64\Spectacular Game\Spectacular Game.exe" to play!
