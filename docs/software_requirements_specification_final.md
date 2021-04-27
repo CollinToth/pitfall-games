@@ -42,47 +42,36 @@ This document serves as the software requirements specification for our Unity-ba
 
 1. Performance
     1. The game shall target running at 60 frames per second. I THINK IT RUNS AT THE USER'S REFRESH RATE, INVESTIGATE
-1. Controls
-    1. The game's controls shall be responsive.
-    1. The game's controls shall be consistent with other games of its genre, so as to be intuitive to the user.
-1. Difficulty
-    1. Levels shall be challenging but not stressful.
-    1. The usability of the platformer shall make it so that it is easy for people outside of the team creating it to understand how to use it.
-    1. Levels shall scale up in difficulty as the game progresses.
-    1. The game shall implement different enemy types that require different strategies.
-1. Aesthetics
-    1. Levels shall feel aesthetically distinct from one another through visual and musical theming.
-    1. Different enemies shall have distinct differences so they are easy to tell apart.
 
-### SOMETHING
+### Aesthetics
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR1 | <Non-Functional Requirement 1> |
-| NFR2 | <Non-Functional Requirement 2> |
+| NFR1 | Levels shall feel aesthetically distinct from one another through visual and musical theming. |
+| NFR2 | Different enemies shall have distinct differences so they are easy to tell apart. |
 | NFR3 | <Non-Functional Requirement 3> |
 | NFR4 | <Non-Functional Requirement 4> |
 | NFR5 | <Non-Functional Requirement 5> |
 
-### SOMETHING
+### Controls
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR6 | <Non-Functional Requirement 6> |
-| NFR7 | <Non-Functional Requirement 7> |
-| NFR8 | <Non-Functional Requirement 8> |
+| NFR6 | The game's controls shall be responsive. |
+| NFR7 | The game's controls shall be consistent with other games of its genre, so as to be intuitive to the user. |
+| NFR8 | The game's controls shall be easily located by the user on a menu. |
 | NFR9 | <Non-Functional Requirement 9> |
 | NFR10 | <Non-Functional Requirement 10> |
 
-### SOMETHING
+### Difficulty
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR11 | <Non-Functional Requirement 11> |
-| NFR12 | <Non-Functional Requirement 12> |
-| NFR13 | <Non-Functional Requirement 13> |
-| NFR14 | <Non-Functional Requirement 14> |
-| NFR15 | <Non-Functional Requirement 15> |
+| NFR11 | Levels shall be challenging but not stressful. |
+| NFR12 | The usability of the platformer shall make it so that it is easy for people outside of the team creating it to understand how to use it. |
+| NFR13 | Levels shall scale up in difficulty as the game progresses. |
+| NFR14 | The game shall implement different enemy types that require different strategies. |
+| NFR15 | Levels shall be able to be completed without the attribute changes in the player. |
 
 # Software Artifacts
 
