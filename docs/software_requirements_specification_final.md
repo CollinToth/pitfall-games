@@ -51,7 +51,7 @@ This document serves as the software requirements specification for our Unity-ba
 | NFR2 | Different enemies shall have distinct differences so they are easy to tell apart. |
 | NFR3 | Menus should be easily interactable to allow for easy access to the game. |
 | NFR4 | The end of the level shall be dentoed by a symbol that is easily recognizable. |
-| NFR5 | Levels, while dictinct, shall keep the same controls and general feel. |
+| NFR5 | Levels, while dictinct, shall keep the same general feel. |
 
 ### Controls
 
@@ -60,8 +60,8 @@ This document serves as the software requirements specification for our Unity-ba
 | NFR6 | The game's controls shall be responsive. |
 | NFR7 | The game's controls shall be consistent with other games of its genre, so as to be intuitive to the user. |
 | NFR8 | The game's controls shall be easily located by the user on a menu. |
-| NFR9 | <Non-Functional Requirement 9> |
-| NFR10 | <Non-Functional Requirement 10> |
+| NFR9 | The game's controls shall be consistant between each level. |
+| NFR10 | The game's controls shall not be changed as charactor attributes change. |
 
 ### Difficulty
 
