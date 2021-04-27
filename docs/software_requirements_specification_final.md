@@ -36,7 +36,7 @@ This document serves as the software requirements specification for our Unity-ba
 | FR12 | The player shall be knocked back in repsonse to enemy interaction. |
 | FR13 | The player shall respawn upon health display hitting zero. |
 | FR14 | The player shall move to the next level automatically upon completion of the level. |
-| FR15 | <Requirement 15> |
+| FR15 | The pause menu shall be able to be accessed from any of the levels. |
 
 ## Non-Functional Requirements
 
