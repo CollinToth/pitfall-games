@@ -49,9 +49,9 @@ This document serves as the software requirements specification for our Unity-ba
 | :-------------: | :----------: |
 | NFR1 | Levels shall feel aesthetically distinct from one another through visual and musical theming. |
 | NFR2 | Different enemies shall have distinct differences so they are easy to tell apart. |
-| NFR3 | <Non-Functional Requirement 3> |
-| NFR4 | <Non-Functional Requirement 4> |
-| NFR5 | <Non-Functional Requirement 5> |
+| NFR3 | Menus should be easily interactable to allow for easy access to the game. |
+| NFR4 | The end of the level shall be dentoed by a symbol that is easily recognizable. |
+| NFR5 | Levels, while dictinct, shall keep the same controls and general feel. |
 
 ### Controls
 
