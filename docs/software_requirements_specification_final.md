@@ -33,9 +33,9 @@ This document serves as the software requirements specification for our Unity-ba
 | ID | Requirement |
 | :-------------: | :----------: |
 | FR11 | The player's health shall be displayed on screen. |
-| FR12 | <Requirement 12> |
-| FR13 | <Requirement 13> |
-| FR14 | <Requirement 14> |
+| FR12 | The player shall be knocked back in repsonse to enemy interaction. |
+| FR13 | The player shall respawn upon health display hitting zero. |
+| FR14 | The player shall move to the next level automatically upon completion of the level. |
 | FR15 | <Requirement 15> |
 
 ## Non-Functional Requirements
