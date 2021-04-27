@@ -18,7 +18,7 @@ This document serves as the software requirements specification for our Unity-ba
 | FR4 | The playable character shall respawn on death. |
 | FR5 | The playable character's attributes shall change in response to death from enemies or the geometry of the level. |
 
-### User Interface
+### Menus
 
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -26,13 +26,13 @@ This document serves as the software requirements specification for our Unity-ba
 | FR7 | The game shall have a pause menu. |
 | FR8 | The game shall have a main menu that is displayed upon launch. |
 | FR9 | The pause and main menus shall both have an option to exit the game. |
-| FR10 | The player's health shall be displayed on screen. |
+| FR10 | The game shall have a menu to allow the user to choose a level to start from.  |
 
-### SOMETHING
+### User Interface
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR11 | <Requirement 11> |
+| FR11 | The player's health shall be displayed on screen. |
 | FR12 | <Requirement 12> |
 | FR13 | <Requirement 13> |
 | FR14 | <Requirement 14> |
