@@ -40,9 +40,6 @@ This document serves as the software requirements specification for our Unity-ba
 
 ## Non-Functional Requirements
 
-1. Performance
-    1. The game shall target running at 60 frames per second. I THINK IT RUNS AT THE USER'S REFRESH RATE, INVESTIGATE
-
 ### Aesthetics
 
 | ID | Requirement |
