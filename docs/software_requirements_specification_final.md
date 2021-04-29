@@ -1,6 +1,6 @@
 # Overview
 
-This document serves as the software requirements specification for our Unity-based 2D platformer. The listed functional and non-functional requirements lay out what the game will be capable of and how it will behave, respectively. Each requirement has its own ID for traceability purposes. Each requirement will need to be fulfilled before completion of this project.
+This document serves as the software requirements specification for our Unity-based 2D platformer, CIS 350 Spectacular Never Been Seen Before Super Awesome Game. The listed functional and non-functional requirements lay out what the game will be capable of and how it will behave, respectively. Each requirement has its own ID for traceability purposes. Each requirement will need to be fulfilled before completion of this project.
 
 # Software Requirements
 
