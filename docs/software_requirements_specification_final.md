@@ -4,7 +4,7 @@ This document serves as the software requirements specification for our Unity-ba
 
 # Software Requirements
 
-<DESCRIBE THE STRUCTURE OF THIS SECTION>
+All functional and non-functional requirements are listed below. Both types of requirements have categories to sort them by feature. Each category is represented by a table of related requirements and their IDs.
 
 ## Functional Requirements
 
