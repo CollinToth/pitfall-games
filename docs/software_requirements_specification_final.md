@@ -72,14 +72,14 @@ This document serves as the software requirements specification for our Unity-ba
 
 # Software Artifacts
 
-<DESCRIBE THE PURPOSE OF THIS SECTION>
+Links to all of the software artifacts generated during the development of this project are provided below. These artifacts include project plans, design documents, use case diagrams, and presentation resources.
 
 - [Burn-up chart (as of 04/02/2021)](burn-up_chart.pdf)
 - [Final presentation slides](final_presentation.pdf)
 - [Final presentation talking points](final_presentation_talking_points.md)
 - [Project proposal](proposal.md)
 - [Midterm software requirements specification](software_requirements_specification.md)
-- [Task list](task_list.md)
+- [Task list (as of 04/02/2021)](task_list.md)
 - [Use case diagram - combat](/artifacts/use_case_diagrams/combat.pdf)
 - [Use case diagram - menus and options](/artifacts/use_case_diagrams/menus_and_options.pdf)
 - [Use case diagram - movement and respawning](/artifacts/use_case_diagrams/movement_and_respawning.pdf)
