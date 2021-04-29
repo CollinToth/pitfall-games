@@ -34,9 +34,9 @@ This document serves as the software requirements specification for our Unity-ba
 | :-------------: | :----------: |
 | FR11 | The player's health shall be displayed on screen. |
 | FR12 | The player shall be knocked back in repsonse to enemy interaction. |
-| FR13 | The player shall respawn upon health display hitting zero. |
-| FR14 | The player shall move to the next level automatically upon completion of the level. |
-| FR15 | The pause menu shall be able to be accessed from any of the levels. |
+| FR13 | The player shall respawn upon their health reaching zero. |
+| FR14 | The player shall move to the next level automatically upon completion of the current level. |
+| FR15 | The pause menu shall be able to be accessed from all of the levels. |
 
 ## Non-Functional Requirements
 
@@ -47,8 +47,8 @@ This document serves as the software requirements specification for our Unity-ba
 | NFR1 | Levels shall feel aesthetically distinct from one another through visual and musical theming. |
 | NFR2 | Different enemies shall have distinct differences so they are easy to tell apart. |
 | NFR3 | Menus should be easily interactable to allow for easy access to the game. |
-| NFR4 | The end of the level shall be dentoed by a symbol that is easily recognizable. |
-| NFR5 | Levels, while dictinct, shall keep the same general feel. |
+| NFR4 | The end of the level shall be denoted by a symbol that is easily recognizable. |
+| NFR5 | Levels, while distinct, shall keep the same general feel. |
 
 ### Controls
 
@@ -56,19 +56,19 @@ This document serves as the software requirements specification for our Unity-ba
 | :-------------: | :----------: |
 | NFR6 | The game's controls shall be responsive. |
 | NFR7 | The game's controls shall be consistent with other games of its genre, so as to be intuitive to the user. |
-| NFR8 | The game's controls shall be easily located by the user on a menu. |
-| NFR9 | The game's controls shall be consistant between each level. |
-| NFR10 | The game's controls shall not be changed as charactor attributes change. |
+| NFR8 | The game's controls shall be easily located by the user on the menus. |
+| NFR9 | The game's controls shall be consistent between each level. |
+| NFR10 | The game's controls shall not be changed as character attributes change. |
 
 ### Difficulty
 
 | ID | Requirement |
 | :-------------: | :----------: |
 | NFR11 | Levels shall be challenging but not stressful. |
-| NFR12 | The usability of the platformer shall make it so that it is easy for people outside of the team creating it to understand how to use it. |
+| NFR12 | The usability of the platformer shall make it easy for people outside of the team to understand how to use it. |
 | NFR13 | Levels shall scale up in difficulty as the game progresses. |
 | NFR14 | The game shall implement different enemy types that require different strategies. |
-| NFR15 | Levels shall be able to be completed without the attribute changes in the player. |
+| NFR15 | Levels shall be completable without changes in the player's attributes. |
 
 # Software Artifacts
 
