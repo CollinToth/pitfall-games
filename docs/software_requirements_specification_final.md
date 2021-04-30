@@ -47,7 +47,7 @@ All functional and non-functional requirements are listed below. Both types of r
 | :-------------: | :----------: |
 | NFR1 | Levels shall feel aesthetically distinct from one another through visual and musical theming. |
 | NFR2 | Different enemies shall have distinct differences so they are easy to tell apart. |
-| NFR3 | Menus should be easily interactable to allow for easy access to the game. |
+| NFR3 | Menus should be easy to interact with to allow for easy access to the game. |
 | NFR4 | The end of the level shall be denoted by a symbol that is easily recognizable. |
 | NFR5 | Levels, while distinct, shall keep the same general feel. |
 
