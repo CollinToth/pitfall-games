@@ -48,7 +48,7 @@ All functional and non-functional requirements are listed below. Both types of r
 | NFR1 | Levels shall feel aesthetically distinct from one another through visual and musical theming. |
 | NFR2 | Different enemies shall have distinct differences so they are easy to tell apart. |
 | NFR3 | Menus shall be easy to interact with to allow for easy access to the game. |
-| NFR4 | The end of the level shall be denoted by a symbol that is easily recognizable. |
+| NFR4 | The end of each level shall be denoted by a symbol that is easily recognizable. |
 | NFR5 | Levels, while distinct, shall keep the same general feel. |
 
 ### Controls
@@ -69,7 +69,7 @@ All functional and non-functional requirements are listed below. Both types of r
 | NFR12 | The usability of the platformer shall make it easy for people outside of the team to understand how to use it. |
 | NFR13 | Levels shall scale up in difficulty as the game progresses. |
 | NFR14 | The game shall implement different enemy types that require different strategies. |
-| NFR15 | Levels shall be completable without changes in the player's attributes. |
+| NFR15 | Levels shall be completable without changes to the player's attributes. |
 
 # Software Artifacts
 
