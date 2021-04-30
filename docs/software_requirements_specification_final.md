@@ -34,7 +34,7 @@ All functional and non-functional requirements are listed below. Both types of r
 | ID | Requirement |
 | :-------------: | :----------: |
 | FR12 | The player's health shall be displayed on screen. |
-| FR13 | The player shall be knocked back in repsonse to enemy horizontal enemy collision. |
+| FR13 | The player shall be knocked back in repsonse to horizontal enemy collision. |
 | FR14 | The player shall lose one point of health in repsonse to horizontal enemy collision. |
 | FR15 | The player shall respawn upon their health reaching zero or falling off the stage. |
 | FR16 | The player's health shall be refilled to a random value upon respawning. |
