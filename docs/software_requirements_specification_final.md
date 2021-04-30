@@ -15,30 +15,29 @@ All functional and non-functional requirements are listed below. Both types of r
 | FR1 | Levels shall be completable by the playable character crossing an endpoint on the stage. |
 | FR2 | The game shall implement a playable character and have that character move in response to input from the user. |
 | FR3 | The game shall have a basic enemy with the ability to interact with the playable character. |
-| FR4 | The playable character shall respawn on death. |
-| FR5 | The playable character's attributes shall change in response to death from enemies or the geometry of the level. |
-| FR6 | The player shall move to the next level automatically upon completion of the current level. |
+| FR4 | The playable character's attributes shall change in response to death from enemies or the geometry of the level. |
+| FR5 | The player shall move to the next level automatically upon completion of the current level. |
 
 ### Menus
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR7 | The game's controls shall be shown to the player on the main menu and on the pause menu. |
-| FR8 | The game shall have a pause menu. |
-| FR9 | The game shall have a main menu that is displayed upon launch. |
-| FR10 | The pause and main menus shall both have an option to exit the game. |
-| FR11 | The game shall have a menu to allow the user to choose a level to start from. |
-| FR12 | The pause menu shall be accessible from all of the levels. |
+| FR6 | The game's controls shall be shown to the player on the main menu and on the pause menu. |
+| FR7 | The game shall have a pause menu. |
+| FR8 | The game shall have a main menu that is displayed upon launch. |
+| FR9 | The pause and main menus shall both have an option to exit the game. |
+| FR10 | The game shall have a menu to allow the user to choose a level to start from. |
+| FR11 | The pause menu shall be accessible from all of the levels. |
 
 ### Health and Knockback
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR13 | The player's health shall be displayed on screen. |
-| FR14 | The player shall be knocked back in repsonse to enemy horizontal enemy collision. |
-| FR15 | The player shall lose one point of health in repsonse to horizontal enemy collision. |
-| FR16 | The player shall respawn upon their health reaching zero. |
-| FR17 | The player's health shall be refilled to a random value upon respawning. |
+| FR12 | The player's health shall be displayed on screen. |
+| FR13 | The player shall be knocked back in repsonse to enemy horizontal enemy collision. |
+| FR14 | The player shall lose one point of health in repsonse to horizontal enemy collision. |
+| FR15 | The player shall respawn upon their health reaching zero or falling off the stage. |
+| FR16 | The player's health shall be refilled to a random value upon respawning. |
 
 ## Non-Functional Requirements
 
